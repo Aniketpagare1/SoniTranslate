@@ -1,6 +1,6 @@
 # flake8: noqa
 
-news={},
+
 language_data = {
     "english": {
         "description": """
