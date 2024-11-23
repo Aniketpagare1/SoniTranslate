@@ -86,7 +86,7 @@ from soni_translate.text_multiformat_processor import (
     create_video_from_images,
     merge_video_and_audio,
 )
-from soni_translate.languages_gui import language_data, news
+from soni_translate.languages_gui import language_data
 import copy
 import logging
 import json
