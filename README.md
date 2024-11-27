@@ -4,7 +4,7 @@
 Dubbing Studio is a powerful and user-friendly web application that allows you to easily translate videos into different languages. This repository hosts the code for the Dubbing Studio web UI, which is built with the Gradio library to provide a seamless and interactive user experience.
 
 
-## SonyTranslate's web UI, which features a browser interface built on the Gradio library.
+
 
 
 
